@@ -1,0 +1,558 @@
+[{
+  "_id": {
+    "$oid": "67981302b9c0224b5fb52fde"
+  },
+  "body": "It was really really bad just the worst",
+  "sentiment": "NEGATIVE",
+  "score": 0.782860279083252,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67981315b9c0224b5fb52fdf"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67981321b9c0224b5fb52fe0"
+  },
+  "body": "average",
+  "sentiment": "NEUTRAL",
+  "score": 0.22506999969482422,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67981348b9c0224b5fb52fe1"
+  },
+  "body": "not bad",
+  "sentiment": "POSITIVE",
+  "score": 0.5881915092468262,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67982829f40d0b1a75a9f051"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798282bf40d0b1a75a9f052"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798282df40d0b1a75a9f053"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67982830f40d0b1a75a9f054"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798329764d00026aacc4cd5"
+  },
+  "body": "very bad service",
+  "sentiment": "NEGATIVE",
+  "score": 0.7568726539611816,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "679832b764d00026aacc4cd6"
+  },
+  "body": "neutral",
+  "sentiment": "NEGATIVE",
+  "score": 0.2249011993408203,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798befdc0919025c761e2e6"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798bf23c0919025c761e2e7"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798bf64c0919025c761e2e8"
+  },
+  "body": "not bad",
+  "sentiment": "POSITIVE",
+  "score": 0.5881915092468262,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798bf6cc0919025c761e2e9"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798bf73c0919025c761e2ea"
+  },
+  "body": "very bad",
+  "sentiment": "NEGATIVE",
+  "score": 0.7884631156921387,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6798eaefd875567e441723f1"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "6799e524d2304c7f2d8e9b28"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a1713a83ba346e887a4232"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a1715983ba346e887a4233"
+  },
+  "body": "bad service",
+  "sentiment": "NEGATIVE",
+  "score": 0.7195601463317871,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a1726083ba346e887a4234"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a172e283ba346e887a4235"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a1f51d9f0674424c93d881"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a53b5e2995291a9b04d8ed"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a53b732995291a9b04d8ee"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a53b7d2995291a9b04d8ef"
+  },
+  "body": "really bad",
+  "sentiment": "NEGATIVE",
+  "score": 0.8041987419128418,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a53ddb07d87a675debad70"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a53e52fb56bd78c7aa8bc6"
+  },
+  "body": "not bad service",
+  "sentiment": "POSITIVE",
+  "score": 0.06731939315795898,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a53feae696546577d0c5a8"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a53ff1e696546577d0c5a9"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a54029e696546577d0c5aa"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a54046e696546577d0c5ab"
+  },
+  "body": "bad service",
+  "sentiment": "NEGATIVE",
+  "score": 0.7195601463317871,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a54082e696546577d0c5ac"
+  },
+  "body": "not bad",
+  "sentiment": "POSITIVE",
+  "score": 0.5881915092468262,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a541599c906e19860ff560"
+  },
+  "body": "really bad",
+  "sentiment": "NEGATIVE",
+  "score": 0.8041987419128418,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a5437b9c906e19860ff562"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a543b19c906e19860ff563"
+  },
+  "body": "bad",
+  "sentiment": "NEGATIVE",
+  "score": 0.7823834419250488,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a543d49c906e19860ff564"
+  },
+  "body": "not bad",
+  "sentiment": "POSITIVE",
+  "score": 0.5881915092468262,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a5449f9c906e19860ff565"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67a547149c906e19860ff566"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67af1750ebaefc5a3f556d43"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67b4d1eaa6278b503ea67316"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67b4d53ba6278b503ea67317"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.8161196708679199,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67b4d546a6278b503ea67318"
+  },
+  "body": "bad",
+  "sentiment": "NEGATIVE",
+  "score": 0.7823834419250488,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67bb657b282e3238df065530"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.8499155044555664,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67c16d2be0eb107e245ac116"
+  },
+  "body": "bad serviiccce",
+  "sentiment": "NEGATIVE",
+  "score": 0.7698664665222168,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67c616080a118700a8f31975"
+  },
+  "body": "average ",
+  "sentiment": "NEUTRAL",
+  "score": 0.592,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67c616320a118700a8f31976"
+  },
+  "body": "not bad",
+  "sentiment": "POSITIVE",
+  "score": 0.713,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67c616410a118700a8f31977"
+  },
+  "body": "mid",
+  "sentiment": "NEUTRAL",
+  "score": 0.533,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67ca441299d2c066955124d0"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.83,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67ca442599d2c066955124d1"
+  },
+  "body": "average",
+  "sentiment": "NEUTRAL",
+  "score": 0.535,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67ca941799d2c066955124d2"
+  },
+  "body": "",
+  "sentiment": "NEUTRAL",
+  "score": 0.451,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67cac36d99d2c066955124d3"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.83,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67cac38199d2c066955124d4"
+  },
+  "body": "bad",
+  "sentiment": "NEGATIVE",
+  "score": 0.594,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67cac3c599d2c066955124d5"
+  },
+  "body": "mediocre food and unwelcome services but good prices",
+  "sentiment": "NEGATIVE",
+  "score": 0.748,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67cac3d299d2c066955124d6"
+  },
+  "body": "average",
+  "sentiment": "NEUTRAL",
+  "score": 0.535,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67cf65d74b78b32cac0a07eb"
+  },
+  "body": "average",
+  "sentiment": "NEUTRAL",
+  "score": 0.535,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67cf65fc4b78b32cac0a07ec"
+  },
+  "body": "good service but average food",
+  "sentiment": "NEGATIVE",
+  "score": 0.453,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67cf66194b78b32cac0a07ed"
+  },
+  "body": "average service but good food",
+  "sentiment": "POSITIVE",
+  "score": 0.495,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67d021b64b174b41cacb4fed"
+  },
+  "body": "good service",
+  "sentiment": "POSITIVE",
+  "score": 0.83,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67d021c74b174b41cacb4fee"
+  },
+  "body": "average",
+  "sentiment": "NEUTRAL",
+  "score": 0.535,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67d021d64b174b41cacb4fef"
+  },
+  "body": "bad",
+  "sentiment": "NEGATIVE",
+  "score": 0.594,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67d0226b4b174b41cacb4ff0"
+  },
+  "body": "good service bad meals",
+  "sentiment": "NEUTRAL",
+  "score": 0.435,
+  "_class": "com.oubaid.Restaurants.Review"
+},
+{
+  "_id": {
+    "$oid": "67d023624b174b41cacb4ff1"
+  },
+  "body": "good",
+  "sentiment": "POSITIVE",
+  "score": 0.663,
+  "_class": "com.oubaid.Restaurants.Review"
+}]

@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "67969dc16e7f5359663169d3"
+  },
+  "username": "JohnDoe",
+  "email": "johndoe@example.com",
+  "password": "password123",
+  "favoriteRestaurants": [],
+  "restaurantReviews": {},
+  "_class": "com.oubaid.Restaurants.User"
+},
+{
+  "_id": {
+    "$oid": "6796ab8eb6017655c1f286be"
+  },
+  "username": "oubaid",
+  "email": "oubaidboussaidi@gmail.com",
+  "password": "oubaid111",
+  "favoriteRestaurants": [
+    "tt3915174",
+    "tt1234567",
+    "tt3456789",
+    "tt2345678"
+  ],
+  "restaurantReviews": {
+    "tt3915174": "678da8268e47852e771337d5"
+  },
+  "_class": "com.oubaid.Restaurants.User"
+},
+{
+  "_id": {
+    "$oid": "67b0f795f4a8fa66dc416c32"
+  },
+  "username": "oubaidboussaidi",
+  "email": "oubaid.boussaidi@gmail.com",
+  "password": "$2a$10$YX5S4ZSBcZlmQULuZLS9NOXxrNoPlL3Xi2xw2ZLiu.otZEXELaVCq",
+  "favoriteRestaurants": [],
+  "restaurantReviews": {},
+  "_class": "com.oubaid.Restaurants.User"
+},
+{
+  "_id": {
+    "$oid": "67b0f7c5f4a8fa66dc416c33"
+  },
+  "username": "aaa",
+  "email": "oubaidqboussaidi@gmail.com",
+  "password": "$2a$10$zLggz92dCr8OF/Qc/ta9fe2AJjBa/5ccYb2EfOx3/Gh0MYQVJcA5G",
+  "favoriteRestaurants": [],
+  "restaurantReviews": {},
+  "_class": "com.oubaid.Restaurants.User"
+},
+{
+  "_id": {
+    "$oid": "67bb75d1282e3238df065531"
+  },
+  "username": "oubaid",
+  "email": "ouba@gmail.com",
+  "password": "$2a$10$LGkQmi332P3I4EZa6zEYcuNxgaBBUmrPitj291Cu2yb2OIIeQRy7W",
+  "favoriteRestaurants": [
+    "tt3915174"
+  ],
+  "restaurantReviews": {},
+  "_class": "com.oubaid.Restaurants.User"
+},
+{
+  "_id": {
+    "$oid": "67d024464b174b41cacb4ff2"
+  },
+  "username": "aaa",
+  "email": "oa@gmail.com",
+  "password": "$2a$10$xaQkpKespzwDZKn3wAzO5OjwXz2a76cjnKG5AQa1dZ1CTBurwaX66",
+  "favoriteRestaurants": [
+    "tt3915174"
+  ],
+  "restaurantReviews": {},
+  "_class": "com.oubaid.Restaurants.User"
+}]

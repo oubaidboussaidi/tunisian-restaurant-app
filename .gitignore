@@ -1,0 +1,36 @@
+# === Java / Spring Boot ===
+/target/
+*.class
+*.jar
+*.war
+*.log
+*.iml
+*.tmp
+
+# IntelliJ / Eclipse / VSCode
+.idea/
+*.iws
+*.ipr
+*.iml
+*.classpath
+*.project
+.vscode/
+
+# === Node / React ===
+/node_modules/
+/build/
+/dist/
+.env
+.npm/
+.yarn/
+package-lock.json
+yarn.lock
+
+# === OS / Misc ===
+.DS_Store
+Thumbs.db
+
+# === Logs / temp ===
+*.log
+logs/
+*.tmp

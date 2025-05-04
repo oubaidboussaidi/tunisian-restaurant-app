@@ -1,0 +1,96 @@
+[{
+  "_id": "1",
+  "name": "evenement",
+  "date": "2025-03-30",
+  "image": "https://i0.wp.com/lapresse.tn/wp-content/uploads/2024/04/unnamed.jpg?fit=512%2C363&ssl=1",
+  "traditionalFoods": [
+    "Baklava",
+    "Kaak Warka",
+    "Makroud",
+    "Chamya"
+  ],
+  "subscribers": [
+    {
+      "username": "oubaid",
+      "email": "ouba@gmail.com"
+    }
+  ],
+  "organizer": [
+    "tt3915174",
+    "tt1234567"
+  ],
+  "_class": "com.oubaid.Restaurants.Event"
+},
+{
+  "_id": "2",
+  "name": "Aid Al-Adha",
+  "date": "2025-06-07",
+  "image": "https://www.businessnews.com.tn/images/album/IMGBN1066741.jpg",
+  "traditionalFoods": [
+    "Grilled Lamb",
+    "Osbane",
+    "Mechoui",
+    "Lamb Couscous"
+  ],
+  "subscribers": [],
+  "organizer": [
+    "tt1234567",
+    "tt3915174",
+    "tt2345678",
+    "tt7890123"
+  ],
+  "_class": "com.oubaid.Restaurants.Event"
+},
+{
+  "_id": "3",
+  "name": "Al Mawlid",
+  "date": "2025-09-05",
+  "image": "https://www.moroccoworldnews.com/wp-content/uploads/2024/11/moroccans-to-celebrate-eid-al-mawlid-on-september-16.jpeg",
+  "traditionalFoods": [
+    "Assida Zgougou",
+    "Assida Bidha"
+  ],
+  "subscribers": [],
+  "organizer": [
+    "tt2345678",
+    "tt7890123",
+    "tt1234567"
+  ],
+  "_class": "com.oubaid.Restaurants.Event"
+},
+{
+  "_id": "4",
+  "name": "Couscous Fest",
+  "date": "2025-09-15",
+  "image": "https://i0.wp.com/lapresse.tn/wp-content/uploads/2024/09/couscous-fest.jpg?fit=850%2C491&ssl=1",
+  "traditionalFoods": [
+    "Fish Couscous",
+    "Lamb Couscous",
+    "Vegetable Couscous"
+  ],
+  "subscribers": [],
+  "organizer": [
+    "tt2345678",
+    "tt7890123",
+    "tt3915174",
+    "tt3456789"
+  ],
+  "_class": "com.oubaid.Restaurants.Event"
+},
+{
+  "_id": "5",
+  "name": "Street Food Festival",
+  "date": "2025-10-10",
+  "image": "https://tunisie.co/uploads/images/content/yoka.jpg",
+  "traditionalFoods": [
+    "Lablabi",
+    "Merguez Sandwich",
+    "Brik",
+    "Fricassé"
+  ],
+  "subscribers": [],
+  "organizer": [
+    "tt5678901"
+  ],
+  "_class": "com.oubaid.Restaurants.Event"
+}]
